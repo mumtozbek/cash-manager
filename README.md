@@ -1,2 +1,2 @@
 # cash-manager
-A small sale management program written in Delphi.
+A small sale management desktop app written in Delphi (for windows).
