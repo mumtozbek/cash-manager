@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.08.12 17:23:40.031.bdsproj,D:\Мои документы\Borland Studio Projects\Project1.bdsproj=D:\Мои документы\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>2010.08.21 13:21:57.531.pas,D:\Мои документы\Borland Studio Projects\0\Unit1.pas=D:\Мои документы\Borland Studio Projects\0\mainunit.pas</Transaction>
+    <Transaction>2010.08.21 13:21:57.531.dfm,D:\Мои документы\Borland Studio Projects\0\Unit1.dfm=D:\Мои документы\Borland Studio Projects\0\mainunit.dfm</Transaction>
+    <Transaction>2010.08.21 13:22:40.218.pas,D:\Мои документы\Borland Studio Projects\0\mainunit.pas=D:\Мои документы\Borland Studio Projects\0\Unit1.pas</Transaction>
+    <Transaction>2010.08.21 13:22:40.218.dfm,D:\Мои документы\Borland Studio Projects\0\mainunit.dfm=D:\Мои документы\Borland Studio Projects\0\Unit1.dfm</Transaction>
+    <Transaction>2010.08.21 13:22:54.296.pas,D:\Мои документы\Borland Studio Projects\0\Unit2.pas=</Transaction>
+    <Transaction>2010.08.21 13:22:54.296.dfm,D:\Мои документы\Borland Studio Projects\0\Unit2.dfm=</Transaction>
+    <Transaction>2010.08.21 13:32:37.187.bdsproj,D:\Мои документы\Borland Studio Projects\0\Project1.bdsproj=D:\Мои документы\Borland Studio Projects\0\calc.bdsproj</Transaction>
+    <Transaction>2010.08.21 13:32:44.265.bdsproj,D:\Мои документы\Borland Studio Projects\0\calc.bdsproj=D:\Мои документы\Borland Studio Projects\0\cAalc.bdsproj</Transaction>
+    <Transaction>2010.08.21 13:32:48.968.bdsproj,D:\Мои документы\Borland Studio Projects\0\cAalc.bdsproj=D:\Мои документы\Borland Studio Projects\0\calc.bdsproj</Transaction>
+    <Transaction>2010.08.21 13:32:53.062.bdsproj,D:\Мои документы\Borland Studio Projects\0\calc.bdsproj=D:\Мои документы\Borland Studio Projects\0\caalc.bdsproj</Transaction>
+    <Transaction>2010.08.21 13:32:58.812.bdsproj,D:\Мои документы\Borland Studio Projects\0\caalc.bdsproj=D:\Мои документы\Borland Studio Projects\0\Calc.bdsproj</Transaction>
+    <Transaction>2010.08.21 14:48:03.328.pas,D:\Мои документы\Borland Studio Projects\0\Unit2.pas=D:\Мои документы\Borland Studio Projects\0\goods.pas</Transaction>
+    <Transaction>2010.08.21 14:48:03.328.dfm,D:\Мои документы\Borland Studio Projects\0\Unit2.dfm=D:\Мои документы\Borland Studio Projects\0\goods.dfm</Transaction>
+    <Transaction>2010.08.21 17:49:05.244.pas,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\goods.pas=</Transaction>
+    <Transaction>2010.08.21 17:49:05.244.dfm,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\goods.dfm=</Transaction>
+    <Transaction>2010.08.21 17:49:55.610.pas,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\clients.pas=</Transaction>
+    <Transaction>2010.08.21 17:49:55.610.dfm,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\clients.dfm=</Transaction>
+    <Transaction>2010.08.24 15:07:03.500.pas,D:\Мои документы\Borland Studio Projects\0\Unit2.pas=D:\Мои документы\Borland Studio Projects\0\udialog.pas</Transaction>
+    <Transaction>2010.08.24 15:07:03.500.dfm,D:\Мои документы\Borland Studio Projects\0\Unit2.dfm=D:\Мои документы\Borland Studio Projects\0\udialog.dfm</Transaction>
+    <Transaction>2010.08.26 20:37:27.653.pas,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\Unit1.pas=C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\zunit.pas</Transaction>
+    <Transaction>2010.08.26 20:37:27.653.dfm,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\Unit1.dfm=C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\zunit.dfm</Transaction>
+    <Transaction>2010.08.26 20:40:10.144.pas,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\zunit.pas=C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\Unit1.pas</Transaction>
+    <Transaction>2010.08.26 20:40:10.144.dfm,C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\zunit.dfm=C:\Users\Kem &amp; ngr\Documents\Borland Studio Projects\0\Unit1.dfm</Transaction>
+    <Transaction>2010.09.03 11:11:02.034.pas,D:\Мои документы\Borland Studio Projects\0\plants.pas=</Transaction>
+    <Transaction>2010.09.03 11:11:02.034.dfm,D:\Мои документы\Borland Studio Projects\0\plants.dfm=</Transaction>
+    <Transaction>2010.09.03 11:11:56.456.pas,D:\Мои документы\Borland Studio Projects\0\plants.pas=</Transaction>
+    <Transaction>2010.09.03 11:11:56.456.dfm,D:\Мои документы\Borland Studio Projects\0\plants.dfm=</Transaction>
+    <Transaction>2010.09.03 11:13:51.597.pas,D:\Мои документы\Borland Studio Projects\0\plants.pas=</Transaction>
+    <Transaction>2010.09.03 11:13:51.597.dfm,D:\Мои документы\Borland Studio Projects\0\plants.dfm=</Transaction>
+    <Transaction>2010.09.09 12:45:16.015.pas,D:\Мои документы\Borland Studio Projects\0\udialog.pas=</Transaction>
+    <Transaction>2010.09.09 12:45:16.031.dfm,D:\Мои документы\Borland Studio Projects\0\udialog.dfm=</Transaction>
+    <Transaction>2010.09.09 12:47:24.718.pas,D:\Мои документы\Borland Studio Projects\0\firms.pas=</Transaction>
+    <Transaction>2010.09.09 12:47:24.718.dfm,D:\Мои документы\Borland Studio Projects\0\firms.dfm=</Transaction>
+    <Transaction>2010.09.09 12:48:08.515.pas,D:\Мои документы\Borland Studio Projects\0\firms.pas=</Transaction>
+    <Transaction>2010.09.16 10:44:24.419.pas,D:\Мои документы\Borland Studio Projects\0\Unit2.pas=D:\Мои документы\Borland Studio Projects\0\bases\bases.pas</Transaction>
+    <Transaction>2010.09.16 10:44:24.419.dfm,D:\Мои документы\Borland Studio Projects\0\Unit2.dfm=D:\Мои документы\Borland Studio Projects\0\bases\bases.dfm</Transaction>
+    <Transaction>2010.09.30 12:33:50.906.pas,D:\Мои документы\Borland Studio Projects\0\Unit2.pas=D:\Мои документы\Borland Studio Projects\0\baseunit.pas</Transaction>
+    <Transaction>2010.09.30 12:33:50.906.dfm,D:\Мои документы\Borland Studio Projects\0\Unit2.dfm=D:\Мои документы\Borland Studio Projects\0\baseunit.dfm</Transaction>
+    <Transaction>2011.10.17 12:43:09.812.pas,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\banks.pas=</Transaction>
+    <Transaction>2011.10.17 12:43:09.812.dfm,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\banks.dfm=</Transaction>
+    <Transaction>2011.10.17 12:43:13.359.pas,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\goods.pas=</Transaction>
+    <Transaction>2011.10.17 12:43:13.359.dfm,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\goods.dfm=</Transaction>
+    <Transaction>2011.10.17 12:43:25.781.pas,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\rale.pas=</Transaction>
+    <Transaction>2011.10.17 12:43:25.781.dfm,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\rale.dfm=</Transaction>
+    <Transaction>2011.10.17 12:43:28.609.pas,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\rales.pas=</Transaction>
+    <Transaction>2011.10.17 12:43:28.609.dfm,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\rales.dfm=</Transaction>
+    <Transaction>2011.10.17 12:43:31.484.pas,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\sale.pas=</Transaction>
+    <Transaction>2011.10.17 12:43:31.484.dfm,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\sale.dfm=</Transaction>
+    <Transaction>2011.10.17 12:43:33.562.pas,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\sales.pas=</Transaction>
+    <Transaction>2011.10.17 12:43:33.562.dfm,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\sales.dfm=</Transaction>
+    <Transaction>2011.10.17 12:43:38.453.pas,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\uplants.pas=</Transaction>
+    <Transaction>2011.10.17 12:43:38.453.dfm,C:\Documents and Settings\UserXP\Мои документы\Borland Studio Projects\Расчет\uplants.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
